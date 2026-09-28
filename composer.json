@@ -1,0 +1,21 @@
+{
+    "name": "monkeyscloud/monkeyslegion-webhooks",
+    "description": "Webhook management package for MonKeysLegion framework",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "MonkeysLegion\\Webhooks\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "MonkeysLegion\\Webhooks\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
