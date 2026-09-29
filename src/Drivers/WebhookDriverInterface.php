@@ -7,7 +7,7 @@ use MonkeysLegion\Webhooks\Webhook;
 use MonkeysLegion\Webhooks\WebhookDelivery;
 
 /**
- * MonKeysLegion Framework — Webhooks Package
+ * MonkeysLegion Framework — Webhooks Package
  *
  * Contract for webhook storage drivers.
  *

@@ -9,7 +9,7 @@ use MonkeysLegion\Webhooks\WebhookManager;
 use MonkeysLegion\Webhooks\WebhookSigner;
 
 /**
- * MonKeysLegion Framework — Webhooks Package
+ * MonkeysLegion Framework — Webhooks Package
  *
  * Service provider for webhook registration.
  *

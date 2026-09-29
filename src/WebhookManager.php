@@ -7,7 +7,7 @@ use MonkeysLegion\Webhooks\Drivers\WebhookDriverInterface;
 use MonkeysLegion\Webhooks\WebhookDelivery;
 
 /**
- * MonKeysLegion Framework — Webhooks Package
+ * MonkeysLegion Framework — Webhooks Package
  *
  * Central manager for dispatching and tracking webhooks.
  *

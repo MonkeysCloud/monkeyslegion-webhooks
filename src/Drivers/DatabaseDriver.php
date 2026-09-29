@@ -9,7 +9,7 @@ use PDO;
 use PDOException;
 
 /**
- * MonKeysLegion Framework — Webhooks Package
+ * MonkeysLegion Framework — Webhooks Package
  *
  * Database driver for webhook storage.
  *

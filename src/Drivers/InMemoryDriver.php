@@ -7,7 +7,7 @@ use MonkeysLegion\Webhooks\Webhook;
 use MonkeysLegion\Webhooks\WebhookDelivery;
 
 /**
- * MonKeysLegion Framework — Webhooks Package
+ * MonkeysLegion Framework — Webhooks Package
  *
  * In-memory driver for testing and development.
  *

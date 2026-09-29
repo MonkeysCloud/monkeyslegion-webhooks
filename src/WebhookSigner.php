@@ -4,7 +4,7 @@ declare(strict_types=1);
 namespace MonkeysLegion\Webhooks;
 
 /**
- * MonKeysLegion Framework — Webhooks Package
+ * MonkeysLegion Framework — Webhooks Package
  *
  * HMAC-SHA256 signer for webhook payloads.
  *
